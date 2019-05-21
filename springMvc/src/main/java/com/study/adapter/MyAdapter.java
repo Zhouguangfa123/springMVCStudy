@@ -1,12 +1,13 @@
 package com.study.adapter;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-
 import org.springframework.web.servlet.HandlerAdapter;
 import org.springframework.web.servlet.ModelAndView;
 
-public class MyAdapter implements HandlerAdapter{
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+public class MyAdapter implements HandlerAdapter {
 
 	@Override
 	public boolean supports(Object handler) {

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- 让spring容器扫描指定的包下面的类,然后取解析类中的spring注解 -->
+    <!-- 这个配置同时还包含了<context:annotation-config>的功能 -->
+    <!-- redis配置 -->
+    <bean id="redisUtil" class="com.util.RedisUtil">
+        <!-- 初始化类 -->
+        <property name="addr"><value>127.0.0.1</value></property>
+        <!-- 访问地址，默认本地 -->
+        <property name="port"><value>6379</value></property>
+        <!-- 端口号 -->
+        <property name="auth"><value>master</value></property>
+        <property name="maxIdle"><value>200</value></property>
+        <property name="maxActive"><value>1024</value></property>
+        <property name="maxWait"><value>10000</value></property>
+        <property name="timeOut"><value>10000</value></property>
+        <property name="testOnBorrow"><value>true</value></property>
+    </bean>
+
+
+</beans>

@@ -3,10 +3,139 @@
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="springMvc:war exploded" />
+      <artifact name="springMvc:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fbeaf44-fd4c-4155-9554-c2cc6f47c06a" name="Default Changelist" comment="" />
+    <list default="true" id="8fbeaf44-fd4c-4155-9554-c2cc6f47c06a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/RedisClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/springMvc_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/springMvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/springMvc_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/StringTool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/my_tools.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/springMvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_beans_3_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_context_3_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_core_3_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_expression_3_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_web_3_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_webmvc_3_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/unnamed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/adapter/MyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/MyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/controller/ArgsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/controller/ArgsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/spring-beans-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/spring-context-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/spring-core-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/spring-expression-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/spring-web-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/spring-webmvc-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springMvc.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/adapter/MyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/adapter/MyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/adapter/MyAnnotationAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/adapter/MyAnnotationAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/adapter/MyAnnotationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/adapter/MyAnnotationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/adapter/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/adapter/MyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/adapter/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/adapter/MyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/adapter/MyTestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/adapter/MyTestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/annotation/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/annotation/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/annotation/RequestURIController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/annotation/RequestURIController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/annotation/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/annotation/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/ArgsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/ArgsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/BindingDataController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/BindingDataController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/RequestHeaderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/RequestHeaderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/RequestMethodController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/RequestMethodController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/RequestParamController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/RequestParamController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/RequestURIController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/RequestURIController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/filter/AFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/filter/AFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/filter/EncodingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/filter/EncodingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/filter/HFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/filter/HFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/filter/TestFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/filter/TestFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/filter/ZFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/filter/ZFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/interceptor/MyInterceptor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/interceptor/MyInterceptor1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/interceptor/MyInterceptor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/interceptor/MyInterceptor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/interceptor/TimeInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/interceptor/TimeInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/serializable/TrainsientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/serializable/TrainsientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/serializable/bean/LabeledPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/serializable/bean/LabeledPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/servlet/ConfigServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/servlet/ConfigServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/servlet/HelloWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/servlet/HelloWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/servlet/LifeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/servlet/LifeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/servlet/Test2Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/servlet/Test2Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/test/HttpRequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/test/HttpRequestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/extendthread/DoSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/extendthread/DoSomething.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/imrunnable/DoPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/imrunnable/DoPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/imrunnable/TestPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/imrunnable/TestPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/test/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/test/ThreadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/test/ThreadDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/test/ThreadDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/test/ThreadDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/test/ThreadDemo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/day2/MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/day2/MyThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/day2/TicketThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/day2/TicketThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/day2/TicketThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/thread/threadstudey/day2/TicketThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/SpringMVC-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/META-INF/springMvc.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/adapter/MyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/adapter/MyAnnotationAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/adapter/MyAnnotationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/adapter/MyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/adapter/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/adapter/MyTestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/annotation/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/annotation/RequestURIController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/annotation/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/ArgsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/BindingDataController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/RequestHeaderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/RequestMethodController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/RequestParamController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/RequestURIController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/filter/AFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/filter/EncodingFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/filter/HFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/filter/TestFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/filter/ZFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/interceptor/MyInterceptor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/interceptor/MyInterceptor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/interceptor/TimeInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/servlet/ConfigServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/servlet/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/servlet/LifeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/servlet/Test2Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/classes/com/study/test/HttpRequestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/jsp/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/jsp/test.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/junit-4.13-beta-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/spring-beans-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/spring-context-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/spring-core-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/spring-expression-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/spring-web-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/spring-webmvc-3.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMvc/static/css/hello.css" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,73 +153,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/test/ThreadDemo1.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="2619">
+              <caret line="97" column="44" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyAnnotationAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/threadstudey/day2/MyThread2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/threadstudey/day2/TicketThreadTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/test/ThreadDemo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/imrunnable/DoPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/imrunnable/TestPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/threadstudey/day2/TicketThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/serializable/TrainsientTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="189">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,13 +204,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/serializable/bean/LabeledPoint.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1188">
+              <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -124,7 +226,17 @@
       <find>spring-web-mvc.xml</find>
       <find>mytest</find>
       <find>MyTest</find>
+      <find>shardedJedis</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\gs\springMvc\src\main\java\com</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -135,17 +247,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/study/bean/MyTool.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/bean/MyTools.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/bean/Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/servlet/HelloWord.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/servlet/ConfigServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/servlet/LifeServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/servlet/Test2Servlet.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/controller/TestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/adapter/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/adapter/MyAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/adapter/MyAnnotationAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/adapter/MyTestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/annotation/TestController.java" />
@@ -153,9 +262,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/study/annotation/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/filter/AFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/bean/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/controller/ArgsController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/test/HttpRequestTest.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/test.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/controller/RequestHeaderController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/controller/RequestMethodController.java" />
@@ -170,6 +277,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/study/serializable/TrainsientTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thread/threadstudey/day2/TicketThreadTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thread/threadstudey/day2/TicketThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/RedisClient.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/test/ArgsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/controller/ArgsController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/adapter/MyAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/redis/test.java" />
       </list>
     </option>
   </component>
@@ -188,29 +305,40 @@
         <option name="userSettingsFile" value="C:\Apache\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springMvc Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="SpringStudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springMvc Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="SpringStudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SpringStudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -256,28 +384,22 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springMvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="springMvc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="threadstudey" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springMvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="springMvc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="threadstudey" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,6 +410,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -295,20 +422,23 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="project.structure.side.proportion" value="0.34684685" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\gs\springMvc\src\main\webapp\WEB-INF" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.study.web" />
       <recent name="com.study.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\gs\springMvc\src" />
       <recent name="F:\ideawork\springMvc\src\main\java\com\study\controller" />
       <recent name="F:\ideawork\springMvc\src\main\java\com\study" />
       <recent name="F:\ideawork\springMvc\src\main\java\com\study\bean" />
       <recent name="F:\ideawork\springMvc\src\main\webapp\WEB-INF\jsp" />
-      <recent name="F:\ideawork\springMvc\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -323,20 +453,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TicketThreadTest">
-    <configuration name="ThreadDeimo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.test.ThreadDeimo1" />
-      <module name="springMvc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thread.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.thread.test.ThreadDemo" />
       <module name="springMvc" />
@@ -389,13 +506,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.redis.test" />
+      <module name="springMvc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringMVC" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/springMvc_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="springMvc:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/springMvc" />
+            <option name="CONTEXT_PATH" value="/springMvc_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -459,24 +589,25 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="springMvc:war exploded" />
+          <artifact name="springMvc:war exploded" />
         </option>
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.ThreadDemo" />
-      <item itemvalue="Application.ThreadDeimo1" />
       <item itemvalue="Application.ThreadDemo3" />
       <item itemvalue="Application.TrainsientTest" />
       <item itemvalue="Application.TicketThreadTest" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Tomcat Server.SpringMVC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.TicketThreadTest" />
         <item itemvalue="Application.TrainsientTest" />
         <item itemvalue="Application.ThreadDemo3" />
-        <item itemvalue="Application.ThreadDeimo1" />
-        <item itemvalue="Application.ThreadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -501,6 +632,11 @@
       <workItem from="1557708304538" duration="5205000" />
       <workItem from="1557793818456" duration="233000" />
       <workItem from="1557811316452" duration="595000" />
+      <workItem from="1557983928443" duration="937000" />
+      <workItem from="1558336450541" duration="1130000" />
+      <workItem from="1558342561867" duration="1623000" />
+      <workItem from="1558399767145" duration="11961000" />
+      <workItem from="1558428221252" duration="75000" />
     </task>
     <servers />
   </component>
@@ -525,13 +661,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54277000" />
+    <option name="totallyTimeSpent" value="70003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26287553" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21566524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -539,15 +675,15 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.09988901" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.14539401" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21198668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2774695" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32963374" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.09766926" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32963374" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32963374" />
@@ -559,7 +695,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.10783262" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.02414163" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
     <layout-to-restore>
@@ -598,15 +734,49 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/annotation/HelloController.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/annotation/TestController.java</url>
           <line>11</line>
@@ -632,12 +802,6 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/controller/ArgsController.java</url>
-          <line>145</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/test/HttpRequestTest.java</url>
           <line>35</line>
           <properties />
@@ -649,116 +813,16 @@
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/redis/test.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/hello.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-webmvc-3.2.4.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/AbstractController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-webmvc-3.2.4.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-webmvc-3.2.4.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="908" selection-start-line="908" selection-end-line="908" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="77" lean-forward="true" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyAnnotationAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyAnnotationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyTestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-web-3.2.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="218" selection-start-line="218" selection-end-line="218" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/interceptor/MyInterceptor2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/interceptor/TimeInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -790,32 +854,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/annotation/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/filter/AFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/filter/EncodingFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/filter/ZFilter.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -845,24 +889,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/test.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -891,16 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/controller/ArgsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="229" column="53" selection-start-line="229" selection-start-column="35" selection-end-line="229" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/controller/RequestHeaderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2025">
@@ -915,17 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/extendthread/DoSomething.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10692">
@@ -933,13 +942,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/test/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -975,6 +977,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/threadstudey/day2/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/test/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/annotation/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/servlet/ConfigServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1026,10 +1069,182 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/threadstudey/day2/MyThread2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/servlet/HelloWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/extendthread/DoSomething.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/RedisClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1176#1192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="78" column="35" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1832#1848#0" expanded="true" />
+            <element signature="e#2644#2645#0" expanded="true" />
+            <element signature="e#2671#2672#0" expanded="true" />
+            <element signature="e#2711#2712#0" expanded="true" />
+            <element signature="e#2743#2744#0" expanded="true" />
+            <element signature="e#2771#2772#0" expanded="true" />
+            <element signature="e#2798#2799#0" expanded="true" />
+            <element signature="e#2835#2836#0" expanded="true" />
+            <element signature="e#2867#2868#0" expanded="true" />
+            <element signature="e#2898#2899#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#2965#2966#0" expanded="true" />
+            <element signature="e#2997#2998#0" expanded="true" />
+            <element signature="e#3030#3031#0" expanded="true" />
+            <element signature="e#3062#3063#0" expanded="true" />
+            <element signature="e#3109#3110#0" expanded="true" />
+            <element signature="e#3151#3152#0" expanded="true" />
+            <element signature="e#3182#3183#0" expanded="true" />
+            <element signature="e#3212#3213#0" expanded="true" />
+            <element signature="e#3255#3256#0" expanded="true" />
+            <element signature="e#3293#3294#0" expanded="true" />
+            <element signature="e#3324#3325#0" expanded="true" />
+            <element signature="e#3354#3355#0" expanded="true" />
+            <element signature="e#3397#3398#0" expanded="true" />
+            <element signature="e#3435#3436#0" expanded="true" />
+            <element signature="e#3466#3467#0" expanded="true" />
+            <element signature="e#3496#3497#0" expanded="true" />
+            <element signature="e#3539#3540#0" expanded="true" />
+            <element signature="e#3577#3578#0" expanded="true" />
+            <element signature="e#3616#3617#0" expanded="true" />
+            <element signature="e#3651#3652#0" expanded="true" />
+            <element signature="e#3708#3709#0" expanded="true" />
+            <element signature="e#3756#3757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/controller/ArgsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="56" column="53" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/filter/AFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2619">
+          <caret line="97" column="44" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/adapter/MyAnnotationAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,7 +1258,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.34684685" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1056,7 +1271,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.34684685" />
               </list>
             </option>
           </splitter-proportions>
@@ -1087,11 +1302,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|springMvc</last-edited>
+          <last-edited>springMvc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.34684685" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1099,11 +1315,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: javax.servlet:javax.servlet-api:3.0.1</last-edited>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.34684685" />
               </list>
             </option>
           </splitter-proportions>

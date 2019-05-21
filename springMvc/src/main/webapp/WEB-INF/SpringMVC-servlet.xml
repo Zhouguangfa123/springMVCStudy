@@ -50,27 +50,26 @@
 
 <!--	<bean name="/mytest" class="com.briup.web.adapter.MyTestController"></bean>-->
 <!--	<bean name="/myannotationtest" class="com.briup.web.adapter.MyAnnotationController"></bean>-->
-
 	<!-- 拦截器 -->
 	<bean name="interceptor1" class="com.study.interceptor.MyInterceptor1"></bean>
 	<bean name="interceptor2" class="com.study.interceptor.MyInterceptor2"></bean>
 	<bean name="timeInterceptor" class="com.study.interceptor.TimeInterceptor"></bean>
 
 	<!-- springmvc的专用标签,用来配置拦截器 -->
-	<mvc:interceptors>
-		<mvc:interceptor>
-			<mvc:mapping path="/**"/>
-			<mvc:exclude-mapping path="/test"/>
-			<ref bean="interceptor1"/>
-		</mvc:interceptor>
-		<mvc:interceptor>
-			<mvc:mapping path="/**"/>
-			<mvc:exclude-mapping path="/test"/>
-			<ref bean="interceptor2"/>
-		</mvc:interceptor>
-		<mvc:interceptor>
-			<mvc:mapping path="/**"/>
-			<ref bean="timeInterceptor"/>
-		</mvc:interceptor>
-	</mvc:interceptors>
+<!--	<mvc:interceptors>-->
+<!--		<mvc:interceptor>-->
+<!--			<mvc:mapping path="/**"/>-->
+<!--			<mvc:exclude-mapping path="/test"/>-->
+<!--			<ref bean="interceptor1"/>-->
+<!--		</mvc:interceptor>-->
+<!--		<mvc:interceptor>-->
+<!--			<mvc:mapping path="/**"/>-->
+<!--			<mvc:exclude-mapping path="/test"/>-->
+<!--			<ref bean="interceptor2"/>-->
+<!--		</mvc:interceptor>-->
+<!--		<mvc:interceptor>-->
+<!--			<mvc:mapping path="/**"/>-->
+<!--			<ref bean="timeInterceptor"/>-->
+<!--		</mvc:interceptor>-->
+<!--	</mvc:interceptors>-->
 </beans>

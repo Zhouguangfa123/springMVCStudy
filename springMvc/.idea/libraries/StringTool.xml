@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="StringTool">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/StringTool.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

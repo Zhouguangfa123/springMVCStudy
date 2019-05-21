@@ -13,23 +13,13 @@
         <welcome-file>default.htm</welcome-file>
         <welcome-file>default.jsp</welcome-file>
     </welcome-file-list>
-    <!--servlet 配置-->
-<!--    <servlet>-->
-<!--        <servlet-name>test</servlet-name>-->
-<!--        <servlet-class>com.study.servlet.HelloWord</servlet-class>-->
-<!--    </servlet>-->
-<!--    <servlet-mapping>-->
-<!--        <servlet-name>test</servlet-name>-->
-<!--        <url-pattern>/hello</url-pattern>-->
-<!--    </servlet-mapping>-->
-    <!-- 配置springMvc中的前端控制器 -->
+    <!-- 加载Spring容器配置 -->
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
     <servlet>
         <servlet-name>SpringMVC</servlet-name>
         <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
-<!--        <init-param>-->
-<!--            <param-name>contextConfigLocation</param-name>-->
-<!--            <param-value>classpath:SpringMVC-servlet.xml</param-value>-->
-<!--        </init-param>-->
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
