@@ -3,31 +3,41 @@ package com.study.controller;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import com.commom.ProPerTiesTools;
+import com.commom.TokenTools;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Properties;
+
 @Controller
 public class HelloController {
 	
 	@RequestMapping("/hello")
-	public String hello(Model model){
-		
+	public String hello(Model model, HttpServletRequest request) throws Exception {
+		Map<String, String> params = new HashMap<String, String>(8);
+		Properties properties = ProPerTiesTools.getProperties("F:/gs/springMvc/src/main/resources/user.properties");
+		params.put("userName", properties.getProperty("userName"));
+		System.out.println(params.get("userName"));
+		params.put("userName","z");
+		String token = TokenTools.getToken(request,"X-Token",params);
 		System.out.println("HelloController hello..");
-		
-		model.addAttribute("name", "tom");
+		model.addAttribute("name", token);
 		
 		return "hello";
 	}
 	
 	@RequestMapping("/hello2")
-	public ModelAndView hello2(){
-		
+	public ModelAndView hello2(HttpServletRequest request){
 		System.out.println("HelloController hello2..");
-		
 		ModelAndView mv = new ModelAndView("hello");
-		
+		TokenTools.judgeTokenIsEqual(request,"X-Token","X-Token");
+
+
 		mv.addObject("name", "tom");
 		
 		return mv;

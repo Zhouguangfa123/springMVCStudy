@@ -1,6 +1,5 @@
 package com.redis;
 
-import com.util.RedisClient;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import redis.clients.jedis.Jedis;
